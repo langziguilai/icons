@@ -1,359 +1,1199 @@
 [
     {
-        "name":"推荐",
-        "sub_category_list":[
+        "name": "推荐",
+        "sub_category_list": [
             {
-                "name":"常用",
-                "sites":[
+                "name": "常用",
+                "sites": [
                     {
-                        "name":"百度",
-                        "description":"百度一下你就知道",
-                        "url":"https://m.baidu.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/baidu_mobile.png"
+                        "name": "百度",
+                        "description": "百度一下你就知道",
+                        "url": "https://m.baidu.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/baidu_mobile.png"
                     },
                     {
-                        "name":"腾讯",
-                        "description":"手机腾讯网",
-                        "url":"https://xw.qq.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/qq.png"
+                        "name": "腾讯",
+                        "description": "手机腾讯网",
+                        "url": "https://xw.qq.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/qq.png"
                     },
                     {
-                        "name":"新浪",
-                        "description":"联通世界的超级平台",
-                        "url":"https://sina.cn",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/sina_news.png"
+                        "name": "新浪",
+                        "description": "联通世界的超级平台",
+                        "url": "https://sina.cn",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/sina_news.png"
                     },
                     {
-                        "name":"谷歌",
-                        "description":"最大的搜索引擎",
-                        "url":"https://www.google.com.hk",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sunm/google_app.png"
+                        "name": "谷歌",
+                        "description": "最大的搜索引擎",
+                        "url": "https://www.google.com.hk",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sunm/google_app.png"
                     },
                     {
-                        "name":"搜狐",
-                        "description":"懂手机更懂你",
-                        "url":"https://m.souhu.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/sohu_news.png"
+                        "name": "搜狐",
+                        "description": "懂手机更懂你",
+                        "url": "https://m.souhu.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/sohu_news.png"
                     },
                     {
-                        "name":"网易公开课",
-                        "description":"人chou就要多学习",
-                        "url":"https://c.open.163.com/mobile",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/netease_open_class_1.png"
+                        "name": "网易公开课",
+                        "description": "人chou就要多学习",
+                        "url": "https://c.open.163.com/mobile",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/netease_open_class_1.png"
                     },
                     {
-                        "name":"淘宝",
-                        "description":"淘我喜欢",
-                        "url":"https://main.m.taobao.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Pelmix/taobao.png"
+                        "name": "淘宝",
+                        "description": "淘我喜欢",
+                        "url": "https://main.m.taobao.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Pelmix/taobao.png"
                     },
                     {
-                        "name":"起点中文网",
-                        "description":"精彩小说大全",
-                        "url":"https://m.qidian.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/qidian_dushu.png"
+                        "name": "起点中文网",
+                        "description": "精彩小说大全",
+                        "url": "https://m.qidian.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/qidian_dushu.png"
                     },
                     {
-                        "name":"京东",
-                        "description":"多快好省品质生活",
-                        "url":"https://m.jd.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/jingdong.png"
+                        "name": "京东",
+                        "description": "多快好省品质生活",
+                        "url": "https://m.jd.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/jingdong.png"
                     },
                     {
-                        "name":"优酷",
-                        "description":"这世界很酷",
-                        "url":"https://www.youku.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/youku.png"
+                        "name": "优酷",
+                        "description": "这世界很酷",
+                        "url": "https://www.youku.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/youku.png"
                     },
                     {
-                        "name":"百度贴吧",
-                        "description":"最大的中文社区",
-                        "url":"https://c.tieba.baidu.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/baidu_tieba.png"
+                        "name": "百度贴吧",
+                        "description": "最大的中文社区",
+                        "url": "https://c.tieba.baidu.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/baidu_tieba.png"
                     },
                     {
-                        "name":"12306",
-                        "description":"你离世界只差一张票",
-                        "url":"https://www.12306.cn/index",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/tielu_12306.png"
+                        "name": "12306",
+                        "description": "你离世界只差一张票",
+                        "url": "https://www.12306.cn/index",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/tielu_12306.png"
                     },
                     {
-                        "name":"飞猪",
-                        "description":"阿里旅游再升级",
-                        "url":"https://m.fliggy.com/",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sunm/feizhu.png"
+                        "name": "飞猪",
+                        "description": "阿里旅游再升级",
+                        "url": "https://m.fliggy.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sunm/feizhu.png"
                     },
                     {
-                        "name":"快递100",
-                        "description":"查快递,寄快递,上快递100",
-                        "url":"https://m.kuaidi100.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/kuaidi_100.png"
+                        "name": "快递100",
+                        "description": "查快递,寄快递,上快递100",
+                        "url": "https://m.kuaidi100.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/kuaidi_100.png"
                     },
                     {
-                        "name":"美团",
-                        "description":"吃喝玩乐全都有",
-                        "url":"https://i.meituan.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/XFlat/meituan.png"
+                        "name": "美团",
+                        "description": "吃喝玩乐全都有",
+                        "url": "https://i.meituan.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/XFlat/meituan.png"
                     },
                     {
-                        "name":"小米",
-                        "description":"小米官网",
-                        "url":"https://m.mi.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/mi_market_1.png"
+                        "name": "小米",
+                        "description": "小米官网",
+                        "url": "https://m.mi.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/mi_market_1.png"
                     },
                     {
-                        "name":"58同城",
-                        "description":"让生活更简单",
-                        "url":"https://m.58.cn",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/app_58life.png"
+                        "name": "58同城",
+                        "description": "让生活更简单",
+                        "url": "https://m.58.cn",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/app_58life.png"
                     },
                     {
-                        "name":"虎扑",
-                        "description":"一个认真而有趣的社区",
-                        "url":"https://m.hupu.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/hupu.png"
+                        "name": "虎扑",
+                        "description": "一个认真而有趣的社区",
+                        "url": "https://m.hupu.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pixel/hupu.png"
                     }
                 ]
             },
             {
-                "name":"科技",
-                "sites":[
+                "name": "科技",
+                "sites": [
                     {
-                        "name":"知乎",
-                        "description":"知识分享社区",
-                        "url":"https://www.zhihu.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Superos/zhihu.png"
+                        "name": "知乎",
+                        "description": "知识分享社区",
+                        "url": "https://www.zhihu.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Superos/zhihu.png"
                     },
                     {
-                        "name":"36kr",
-                        "description":"互联网创业资讯",
-                        "url":"https://36kr.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/app_36kr.png"
+                        "name": "36kr",
+                        "description": "互联网创业资讯",
+                        "url": "https://36kr.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/app_36kr.png"
                     },
                     {
-                        "name":"果壳",
-                        "description":"有意思的科技",
-                        "url":"https://m.guokr.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/guokr.png"
+                        "name": "果壳",
+                        "description": "有意思的科技",
+                        "url": "https://m.guokr.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/guokr.png"
                     },
                     {
-                        "name":"少数派",
-                        "description":"高质量应用推荐",
-                        "url":"https://sspai.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/sspai_1.png"
+                        "name": "少数派",
+                        "description": "高质量应用推荐",
+                        "url": "https://sspai.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/sspai_1.png"
                     },
                     {
-                        "name":"爱范儿",
-                        "description":"泛科技媒体",
-                        "url":"https://www.ifanr.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/ifanr.png"
+                        "name": "爱范儿",
+                        "description": "泛科技媒体",
+                        "url": "https://www.ifanr.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/ifanr.png"
                     },
                     {
-                        "name":"ZEALER",
-                        "description":"电子产品测评网站",
-                        "url":"https://m.zealer.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/zealer.png"
+                        "name": "ZEALER",
+                        "description": "电子产品测评网站",
+                        "url": "https://m.zealer.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/zealer.png"
                     },
                     {
-                        "name":"瘾科技",
-                        "description":"科技新闻和测评",
-                        "url":"https://cn.engadget.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Nexa/engadget.png"
+                        "name": "瘾科技",
+                        "description": "科技新闻和测评",
+                        "url": "https://cn.engadget.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Nexa/engadget.png"
                     },
                     {
-                        "name":"虎嗅网",
-                        "description":"科技媒体",
-                        "url":"https://m.huxiu.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Cardicons/huxiu.png"
+                        "name": "虎嗅网",
+                        "description": "科技媒体",
+                        "url": "https://m.huxiu.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Cardicons/huxiu.png"
                     },
                     {
-                        "name":"品玩",
-                        "description":"有品好玩的科技",
-                        "url":"https://www.pingwest.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/wangzhezhushou.png"
+                        "name": "品玩",
+                        "description": "有品好玩的科技",
+                        "url": "https://www.pingwest.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/wangzhezhushou.png"
                     },
                     {
-                        "name":"简书",
-                        "description":"优质原创内容社区",
-                        "url":"https://www.jianshu.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Aspirin/jianshu_comjianshuharuki.png"
+                        "name": "简书",
+                        "description": "优质原创内容社区",
+                        "url": "https://www.jianshu.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Aspirin/jianshu_comjianshuharuki.png"
                     },
                     {
-                        "name":"V2EX",
-                        "description":"快去分享和探索",
-                        "url":"https://www.v2ex.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/v2ex.png"
+                        "name": "V2EX",
+                        "description": "快去分享和探索",
+                        "url": "https://www.v2ex.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/v2ex.png"
                     }
                 ]
             },
             {
-                "name":"生活",
-                "sites":[
+                "name": "生活",
+                "sites": [
                     {
-                        "name":"豆瓣",
-                        "description":"一个神奇的社区",
-                        "url":"https://m.douban.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/douban.png"
+                        "name": "豆瓣",
+                        "description": "一个神奇的社区",
+                        "url": "https://m.douban.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/douban.png"
                     },
                     {
-                        "name":"小红书",
-                        "description":"可以买到国外的好东西",
-                        "url":"https://www.xiaohongshu.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/xiaohongshu.png"
+                        "name": "小红书",
+                        "description": "可以买到国外的好东西",
+                        "url": "https://www.xiaohongshu.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/xiaohongshu.png"
                     },
                     {
-                        "name":"什么值得买",
-                        "description":"经济不好该省省",
-                        "url":"https://m.smzdm.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/smzdm.png"
+                        "name": "什么值得买",
+                        "description": "经济不好该省省",
+                        "url": "https://m.smzdm.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/smzdm.png"
                     },
                     {
-                        "name":"丁香医生",
-                        "description":"健康是快乐生活的第一要素",
-                        "url":"https://dxy.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Burn/dingxiangyuan.icon.png"
+                        "name": "丁香医生",
+                        "description": "健康是快乐生活的第一要素",
+                        "url": "https://dxy.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Burn/dingxiangyuan.icon.png"
                     },
                     {
-                        "name":"马蜂窝",
-                        "description":"旅游攻略社区",
-                        "url":"https://www.mafengwo.cn",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Aspirin/mafengwoluyou_commfwroadbook.png"
+                        "name": "马蜂窝",
+                        "description": "旅游攻略社区",
+                        "url": "https://www.mafengwo.cn",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Aspirin/mafengwoluyou_commfwroadbook.png"
                     },
                     {
-                        "name":"淘票票",
-                        "description":"一起去看电影吧",
-                        "url":"https://dianying.taobao.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Superos/taopiaopiao.png"
+                        "name": "淘票票",
+                        "description": "一起去看电影吧",
+                        "url": "https://dianying.taobao.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Superos/taopiaopiao.png"
                     },
                     {
-                        "name":"下厨房",
-                        "description":"是男人就学做几道菜",
-                        "url":"https://m.xiachufang.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/xiachufang.png"
+                        "name": "下厨房",
+                        "description": "是男人就学做几道菜",
+                        "url": "https://m.xiachufang.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/nature/xiachufang.png"
                     },
                     {
-                        "name":"ONE",
-                        "description":"韩寒监制",
-                        "url":"http://m.wufazhuce.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/XFlat/oneone.png"
+                        "name": "ONE",
+                        "description": "韩寒监制",
+                        "url": "http://m.wufazhuce.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/XFlat/oneone.png"
                     },
                     {
-                        "name":"考拉海购",
-                        "description":"全站免息，海购正品",
-                        "url":"https://m.kaola.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/netease_kaola.png"
+                        "name": "考拉海购",
+                        "description": "全站免息，海购正品",
+                        "url": "https://m.kaola.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/netease_kaola.png"
                     }
                 ]
             },
             {
-                "name":"娱乐",
-                "sites":[
+                "name": "娱乐",
+                "sites": [
                     {
-                        "name":"优酷",
-                        "description":"这世界很酷",
-                        "url":"https://www.youku.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/youku.png"
+                        "name": "优酷",
+                        "description": "这世界很酷",
+                        "url": "https://www.youku.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/youku.png"
                     },
                     {
-                        "name":"爱奇艺",
-                        "description":"中国领先的视频门户",
-                        "url":"https://m.iqiyi.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/iqiyi_1.png"
+                        "name": "爱奇艺",
+                        "description": "中国领先的视频门户",
+                        "url": "https://m.iqiyi.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/iqiyi_1.png"
                     },
                     {
-                        "name":"哔哩哔哩",
-                        "description":"二次元文化聚集地",
-                        "url":"https://m.bilibili.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/bilibili_1.png"
+                        "name": "哔哩哔哩",
+                        "description": "二次元文化聚集地",
+                        "url": "https://m.bilibili.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/bilibili_1.png"
                     },
                     {
-                        "name":"斗鱼",
-                        "description":"每个人的直播平台",
-                        "url":"https://m.douyu.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/douyu.png"
+                        "name": "斗鱼",
+                        "description": "每个人的直播平台",
+                        "url": "https://m.douyu.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/douyu.png"
                     },
                     {
-                        "name":"虎牙",
-                        "description":"中国领先的互动直播平台",
-                        "url":"https://m.huya.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sunm/huya.png"
+                        "name": "虎牙",
+                        "description": "中国领先的互动直播平台",
+                        "url": "https://m.huya.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sunm/huya.png"
                     },
                     {
-                        "name":"游民星空",
-                        "description":"单机游戏攻略新闻",
-                        "url":"https://wap.gamersky.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Burn/youminxingkong.icon.png"
+                        "name": "游民星空",
+                        "description": "单机游戏攻略新闻",
+                        "url": "https://wap.gamersky.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Burn/youminxingkong.icon.png"
                     },
                     {
-                        "name":"TapTap",
-                        "description":"手游分享社区",
-                        "url":"https://www.taptap.com",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/taptap.png"
+                        "name": "TapTap",
+                        "description": "手游分享社区",
+                        "url": "https://www.taptap.com",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/NokiaEvolve/taptap.png"
                     }
                 ]
             },
             {
-                "name":"工具",
-                "sites":[
+                "name": "工具",
+                "sites": [
                     {
-                        "name":"豌豆荚设计",
-                        "description":"发现最美的应用",
-                        "url":"https://www.wandoujia.com/award",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/wandoujia_3.png"
+                        "name": "豌豆荚设计",
+                        "description": "发现最美的应用",
+                        "url": "https://www.wandoujia.com/award",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Gemini/wandoujia_3.png"
                     },
                     {
-                        "name":"喜马拉雅听",
-                        "description":"视频分享平台",
-                        "url":"https://m.ximalaya.com",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/ximalayafm.png"
+                        "name": "喜马拉雅听",
+                        "description": "视频分享平台",
+                        "url": "https://m.ximalaya.com",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/oneui/ximalayafm.png"
                     },
                     {
-                        "name":"草料二维码",
-                        "description":"二维码科技轻松get",
-                        "url":"https://cli.im",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Nexa/qr_code_scanner.png"
+                        "name": "草料二维码",
+                        "description": "二维码科技轻松get",
+                        "url": "https://cli.im",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Nexa/qr_code_scanner.png"
                     },
                     {
-                        "name":"Mozilla",
-                        "description":"学习web开发的最佳实践",
-                        "url":"https://developer.mozilla.org/zh-CN/",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pure/google_docs.png"
+                        "name": "Mozilla",
+                        "description": "学习web开发的最佳实践",
+                        "url": "https://developer.mozilla.org/zh-CN/",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pure/google_docs.png"
                     },
                     {
-                        "name":"石墨文档",
-                        "description":"可多人实时协作的云端文档",
-                        "url":"https://shimo.im/welcome",
-                        "local_path":"",
-                        "remote_url":"https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Cardicons/shimo_document.png"
+                        "name": "石墨文档",
+                        "description": "可多人实时协作的云端文档",
+                        "url": "https://shimo.im/welcome",
+                        "local_path": "",
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Cardicons/shimo_document.png"
                     }
                 ]
             }
         ]
+    },
+    {
+        "name": "设计",
+        "sub_category_list": [
+            {
+                "name": "热门推荐",
+                "sites": [
+                    {
+                        "name": "IconFont",
+                        "description": "知名图标搜索管理平台",
+                        "url": "https://www.iconfont.cn",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-1-1.png"
+                    },
+                    {
+                        "name": "FreePik",
+                        "description": "知名设计素材站",
+                        "url": "https://www.freepik.com",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/06/nav-freepik.png"
+                    },
+                    {
+                        "name": "每日灵感",
+                        "description": "优设旗下灵感频道",
+                        "url": "https://uiiiuiii.com/inspiration",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/03/sdcnav-1-uu2.png"
+                    },
+                    {
+                        "name": "摄图网",
+                        "description": "1000万+图片、插画、视频、模板，免费下载",
+                        "url": "http://699pic.com",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-1-4.png"
+                    },
+                    {
+                        "name": "千图网",
+                        "description": "推荐！海量设计素材下载！无限灵感轻松设计",
+                        "url": "https://www.58pic.com",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-1-4.png"
+                    },
+                    {
+                        "name": "细节猎人",
+                        "description": "每日必读！教你成为真正会思考的设计师",
+                        "url": "https://www.uisdc.com/hunters",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/03/nav-hunter-0319.png"
+                    },
+                    {
+                        "name": "全画作",
+                        "description": "强烈推荐！几十万张超高分辨率艺术作品欣赏",
+                        "url": "https://www.allhistory.com/painting",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/01/nav2020-qls.png"
+                    },
+                    {
+                        "name": "Pakutaso",
+                        "description": "推荐！高品质的免费写真素材站",
+                        "url": "https://www.pakutaso.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-1-2.png"
+                    },
+                    {
+                        "name": "包图网",
+                        "description": "推荐！1000万套原创品质商用素材，效率神器",
+                        "url": "https://ibaotu.com/guanggao/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-1-11.png"
+                    },
+                    {
+                        "name": "Dribbble",
+                        "description": "国际知名设计站点！资深设计师必备",
+                        "url": "https://dribbble.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-1.png"
+                    },
+                    {
+                        "name": "摹客",
+                        "description": "设计协作，用摹客！100人团队免费使用",
+                        "url": "https://www.mockplus.cn",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/06/mockplus-nav-200608.png"
+                    },
+                    {
+                        "name": "花瓣网",
+                        "description": "设计师寻找灵感的必备站点，启发设计灵感",
+                        "url": "https://huaban.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-2.png"
+                    }
+                ]
+            },
+            {
+                "name": "高清图库",
+                "sites": [
+                    {
+                        "name": "WallHaven",
+                        "description": "WallBase创办人失联后，前成员推出的网站",
+                        "url": "https://wallhaven.cc/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-1.png"
+                    },
+                    {
+                        "name": "Yestone创意图片库",
+                        "description": "每天3万张上新，全部正版商用授权，品质高到挑花眼",
+                        "url": "https://www.yestone.com/?ref=768164",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-2.png"
+                    },
+                    {
+                        "name": "PNG素材库",
+                        "description": "推荐！最知名的PNG优质素材库。透明的、感动的",
+                        "url": "http://pngimg.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-png.png"
+                    },
+                    {
+                        "name": "Unsplash",
+                        "description": "知名免费图库，免费下载高分辨率照片，可商用",
+                        "url": "https://unsplash.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-unsplash.png"
+                    },
+                    {
+                        "name": "拍信海量创意图片",
+                        "description": "推荐！超1亿张全球精选潮流图片，有版权全网可商用",
+                        "url": "https://v.paixin.com/newpackageintro/uisdc?utm_source=uisdc&utm_medium=cpm&utm_campaign=uisdc-1",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-5.png"
+                    },
+                    {
+                        "name": "SplitShire",
+                        "description": "免费可商用的图片库，更有视频素材资源",
+                        "url": "https://www.splitshire.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-6.png"
+                    },
+                    {
+                        "name": "deviantART",
+                        "description": "每天发表约20万个新作品！国际化在线艺术社区",
+                        "url": "https://www.deviantart.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-7.png"
+                    },
+                    {
+                        "name": "微软Bing图库",
+                        "description": "推荐！帮你探索收集那些精美的图像，可按色彩检索",
+                        "url": "https://cn.bing.com/images/trending",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-8.png"
+                    },
+                    {
+                        "name": "Pexels",
+                        "description": "推荐！提供高清尺寸且品质优良的免费照片网站",
+                        "url": "https://www.pexels.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-9.png"
+                    },
+                    {
+                        "name": "StockSnap",
+                        "description": "超赞！先进的检索功能，瞬间拥有高质量免费图片",
+                        "url": "https://stocksnap.io/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-10.png"
+                    },
+                    {
+                        "name": "500px",
+                        "description": "有着世界上最好的照片分享，你值得拥有",
+                        "url": "https://500px.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-11.png"
+                    },
+                    {
+                        "name": "Pixabay",
+                        "description": "百万张免费高清图片，高质量可商用",
+                        "url": "https://pixabay.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-3-12.png"
+                    }
+                ]
+            },
+            {
+                "name": "设计教程",
+                "sites": [
+                    {
+                        "name": "优优教程网",
+                        "description": "超人气的优质中文教程网站，PS、AI、AE、C4D",
+                        "url": "https://uiiiuiii.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/03/sdcnav-1-uu3.png"
+                    },
+                    {
+                        "name": "PSDTuts+",
+                        "description": "Photoshop教程，从初学者到高级进阶，应有尽有",
+                        "url": "https://design.tutsplus.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-1.png"
+                    },
+                    {
+                        "name": "Adobe 设计周报",
+                        "description": "Adobe官方站！大神们通过全家桶创作过程的经验总结",
+                        "url": "https://create.adobe.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-2.png"
+                    },
+                    {
+                        "name": "PhotoshopVIP",
+                        "description": "日本超人气设计站点，网站很多干货",
+                        "url": "http://photoshopvip.net/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-3.png"
+                    },
+                    {
+                        "name": "Smashing Magazine",
+                        "description": "国外最著名的设计博客，许多高大上的设计文章",
+                        "url": "https://www.smashingmagazine.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-4.png"
+                    },
+                    {
+                        "name": "数字艺术在线",
+                        "description": "教程都很棒！你更会爱上网站展现教程的回廊方式",
+                        "url": "https://www.digitalartsonline.co.uk/tutorials/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-5.png"
+                    },
+                    {
+                        "name": "优设网",
+                        "description": "与大师零距离接触，一线设计师、总监的干货分享地",
+                        "url": "https://www.uisdc.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-7.png"
+                    },
+                    {
+                        "name": "Photoshop Lady",
+                        "description": "提供各种详细的photoshop教程",
+                        "url": "https://www.photoshoplady.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-6.png"
+                    },
+                    {
+                        "name": "PSD爱好者",
+                        "description": "提供Photoshop教程、设计文章和资源下载",
+                        "url": "http://psd.fanextra.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-9.png"
+                    },
+                    {
+                        "name": "站酷",
+                        "description": "综合性设计分享网站，原创设计交流平台",
+                        "url": "https://www.zcool.com.cn/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-10.png"
+                    },
+                    {
+                        "name": "Abduzeedo",
+                        "description": "汇集大量视觉灵感和酷炫PS教程的设计博客",
+                        "url": "https://abduzeedo.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-11.png"
+                    },
+                    {
+                        "name": "Coliss",
+                        "description": "日本有名站点！大量网站制作相关的设计技巧和神器",
+                        "url": "https://coliss.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-2-12.png"
+                    }
+                ]
+            },
+            {
+                "name": "界面设计",
+                "sites": [
+                    {
+                        "name": "Dribbble",
+                        "description": "设计师必备站点，国内顶尖的设计师都在上面",
+                        "url": "https://dribbble.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-1.png"
+                    },
+                    {
+                        "name": "Behance",
+                        "description": "全球领先的创意设计类聚合平台",
+                        "url": "https://www.behance.net/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-2.png"
+                    },
+                    {
+                        "name": "UI8",
+                        "description": "聚集世界各地优秀设计师的界面源文件",
+                        "url": "https://ui8.net/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-3.png"
+                    },
+                    {
+                        "name": "Flat UI",
+                        "description": "扁平化UI设计灵感，采集扁平化相关的App、网页等",
+                        "url": "http://flatui.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-4.png"
+                    },
+                    {
+                        "name": "UI Movement",
+                        "description": "展示世界最有才华设计师的界面动效设计作品",
+                        "url": "https://uimovement.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-5.png"
+                    },
+                    {
+                        "name": "365psd",
+                        "description": "兢兢业业每天更新着用户界面相关的PSD",
+                        "url": "https://365psd.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-6.png"
+                    },
+                    {
+                        "name": "CollectUI",
+                        "description": "UI设计必备！100多个分类，不用发愁没灵感了",
+                        "url": "https://www.collectui.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-7.png"
+                    },
+                    {
+                        "name": "UI 设计",
+                        "description": "超赞！为您精挑细选的界面设计频道",
+                        "url": "https://uiiiuiii.com/inspirations/ui",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/03/sdcnav-1-uu.png"
+                    },
+                    {
+                        "name": "Pixeden",
+                        "description": "赞！免费优质界面设计源文件及有网站模板",
+                        "url": "https://www.pixeden.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-9.png"
+                    },
+                    {
+                        "name": "Site Inspire",
+                        "description": "致力于分享推荐优秀网页及交互设计案例",
+                        "url": "https://www.siteinspire.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-10.png"
+                    }
+                    ,
+                    {
+                        "name": "Designmodo",
+                        "description": "所有高质量UI工具包都在这里可以找到，部分免费下载",
+                        "url": "https://designmodo.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-4-11.png"
+                    }
+                    ,
+                    {
+                        "name": "移动端设计",
+                        "description": "推荐！收集被程序员追着砍的App动效和视频",
+                        "url": "https://weibo.com/edddesign",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/02/nav-app-0209.png"
+                    }
+                ]
+            },
+            {
+                "name": "灵感创意",
+                "sites": [
+                    {
+                        "name": "Pinterest",
+                        "description": "一个受世界瞩目的，全球最大的创意灵感图片分享网站",
+                        "url": "https://www.pinterest.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-1.png"
+                    },
+                    {
+                        "name": "花瓣",
+                        "description": "采集你喜欢的美好事物，发现新知，启发设计灵感",
+                        "url": "https://huaban.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-2.png"
+                    },
+                    {
+                        "name": "UiiiUiii 灵感频道",
+                        "description": "推荐！超人气的灵感库",
+                        "url": "https://uiiiuiii.com/inspiration",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/03/sdcnav-1-uu2.png"
+                    },
+                    {
+                        "name": "Designspiration",
+                        "description": "提供设计灵感、插画摄影、时尚以及艺术相关的一切",
+                        "url": "https://www.designspiration.com/",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/02/designspiration-nav-2020.png"
+                    },
+                    {
+                        "name": "Product Hunt",
+                        "description": "每天发现有趣的创新产品，离硅谷最近的眼睛",
+                        "url": "https://www.producthunt.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-5.png"
+                    },
+                    {
+                        "name": "幻觉",
+                        "description": "展示最惊人的创作，涵盖艺术、设计、摄影和视频",
+                        "url": "https://scene360.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-6.png"
+                    }
+                    ,
+                    {
+                        "name": "ArtStation",
+                        "description": "强烈推荐！一个收录世界顶级插画作品的社区",
+                        "url": "https://www.artstation.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-12.png"
+                    }
+                    ,
+                    {
+                        "name": "优设琅琊榜",
+                        "description": "顶尖设计师聚集地！令人惊艳的作品集",
+                        "url": "https://www.uisdc.com/gallery",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/06/nav-gallery.png"
+                    },
+                    {
+                        "name": "BOOOOOOOM",
+                        "description": "发人深省的创意图片，博客设计简约但内容丰富",
+                        "url": "https://www.booooooom.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-7.png"
+                    },
+                    {
+                        "name": "灵感网络",
+                        "description": "推荐！聚合来自世界各地的创意人才，每天汲取灵感",
+                        "url": "https://theinspirationgrid.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-8.png"
+                    },
+                    {
+                        "name": "Lapa网页灵感图库",
+                        "description": "设计网站前，推荐来这里找灵感，有贴心全屏预览图",
+                        "url": "https://www.lapa.ninja/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-9.png"
+                    },
+                    {
+                        "name": "迷你单页狂热者",
+                        "description": "流行的网页趋势！不可不知的迷你站点大全",
+                        "url": "https://www.onepagemania.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-8-10.png"
+                    }
+                ]
+            },
+            {
+                "name": "设计工具",
+                "sites": [
+                    {
+                        "name": "神器推荐专栏",
+                        "description": "优设网神器推荐专栏，全球设计工具全收录",
+                        "url": "https://www.uisdc.com/category/hot-download/tools-download",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-9-1.png"
+                    },{
+                        "name": "设计师神器",
+                        "description": "推荐！优设微博主编整理的设计师神器栏目",
+                        "url": "https://uiiiuiii.com/inspirations/featured/tool",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-9-2.png"
+                    },{
+                        "name": "阿里云建站神器",
+                        "description": "1034套PC+手机站网站模板！会打字就会建网站",
+                        "url": "https://ac.aliyun.com/application/webdesign/sumei?source=5176.11533457&userCode=itzns7ko",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/04/nav-aliyun-202018.png"
+                    },{
+                        "name": "PPT神器 iSlide",
+                        "description": "一键优化！你和PPT高手之间就差这个插件了",
+                        "url": "https://www.uisdc.com/ppt-artifact-islide",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-9-3.png"
+                    },{
+                        "name": "京东JDR Design",
+                        "description": "推荐！京东设计团队的设计神器都在这里了",
+                        "url": "https://jdrd.jd.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/03/jdr-design-nav.png"
+                    },{
+                        "name": "Adobe全家桶",
+                        "description": "官方试用版下载链接，PS AI AE全都有，你懂得",
+                        "url": "https://uiiiuiii.com/software/5103.html",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-9-6.png"
+                    },{
+                        "name": "建站之星 SiteStar",
+                        "description": "国内著名建站品牌，PC+手机+小程序网站快速生成",
+                        "url": "https://www.sitestar.cn/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-9-7.png"
+                    },{
+                        "name": "Remove 在线抠图",
+                        "description": "强大的在线抠图神器！提供客户端下载",
+                        "url": "https://www.remove.bg/zh",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2019/12/nav-remove.png"
+                    },{
+                        "name": "H5制作神器",
+                        "description": "推荐！专业级H5制作神器，在线设计，无需编程",
+                        "url": "https://www.epub360.com/?utm_source=uisdc&utm_medium=ad&utm_campaign=hao",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2019/11/nav-1107-epub.png"
+                    },{
+                        "name": "墨刀标注",
+                        "description": "好用的自动标注切图，快速交互设计神器",
+                        "url": "https://modao.cc/?utm_source=hao_uisdc",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-9-11.png"
+                    },{
+                        "name": "PS拉框助手",
+                        "description": "一款人气PS插件！可快速生成各类图表及UI控件",
+                        "url": "https://www.pslkzs.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2019/10/pslkzs.png"
+                    },{
+                        "name": "Vector Magic",
+                        "description": "1秒钟在线位图转矢量！好用的转矢量神器",
+                        "url": "https://vectormagic.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2019/12/nav-vectormagic.png"
+                    }
+                ]
+            },
+            {
+                "name": "素材资源",
+                "sites": [
+                    {
+                        "name": "稿定设计",
+                        "description": "提供海量免费素材，多场景商业视觉在线设计平台",
+                        "url": "https://www.gaoding.com/utms/f10839263a60c1c447c75fcbe10183c2",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/12/sdcnav-gdsj-12.png"
+                    },{
+                        "name": "纹理王",
+                        "description": "免费的高分辨率顶尖纹理，可以商用",
+                        "url": "https://www.textureking.com/category/all-textures/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-sc-1.png"
+                    },{
+                        "name": "freebiesbug",
+                        "description": "最新的免费设计资源",
+                        "url": "https://freebiesbug.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-sc-2.png"
+                    },{
+                        "name": "LogoPond",
+                        "description": "高端logo集萃，设计前必须来池子里泡一泡",
+                        "url": "https://logopond.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-sc-3.png"
+                    },{
+                        "name": "IconFont",
+                        "description": "国内最著名的图标搜索及管理平台，300万个图标下载",
+                        "url": "https://www.iconfont.cn/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-1-1.png"
+                    },{
+                        "name": "矢量Logo下载",
+                        "description": "超赞！知名Logo矢量资源下载",
+                        "url": "https://worldvectorlogo.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-sc-5.png"
+                    }
+                ]
+            },
+            {
+                "name": "酷站模版",
+                "sites": [
+                    {
+                        "name": "Awwwards",
+                        "description": "精挑细选世界各地的最佳网站！并对其打分颁奖",
+                        "url": "https://www.awwwards.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-7-1.png"
+                    },{
+                        "name": "日本 4db",
+                        "description": "推荐！搜集日本各行各业、各地区的优秀网站",
+                        "url": "http://4db.cc/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-7-3.png"
+                    },{
+                        "name": "网页模版巨人",
+                        "description": "著名的网页模版库，借鉴和学习网页趋势的宝地",
+                        "url": "https://www.templatemonster.com/cn/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-6-1.png"
+                    },{
+                        "name": "酷站剪报",
+                        "description": "强烈推荐！用心收集日本酷站，右侧二级栏目非常棒",
+                        "url": "https://www.webdesignclip.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-7-8.png"
+                    },{
+                        "name": "迷你网站模版分享",
+                        "description": "推荐！提供海量单页模版展示和素材资源的网站",
+                        "url": "https://onepagelove.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-6-2.png"
+                    },{
+                        "name": "登录页模版网",
+                        "description": "推荐！整合了各个行业的网站登录页面模版资源",
+                        "url": "https://www.landingfolio.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-6-3.png"
+                    },{
+                        "name": "梦幻模板",
+                        "description": "超过7000个梦幻般的网站模板及Flash模板下载",
+                        "url": "http://www.dreamtemplate.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-6-5.png"
+                    },{
+                        "name": "享誉全球的 WIX",
+                        "description": "超赞！该站全球排名378！可以帮你免费定制网站",
+                        "url": "https://www.wix.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-6-7.png"
+                    },{
+                        "name": "免费模版库",
+                        "description": "历史悠久的老站点，1999年就致力于分享免费网站模版",
+                        "url": "https://www.freewebtemplates.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-6-8.png"
+                    },{
+                        "name": "日本酷站索引",
+                        "description": "近6000个！av大合集也没这么全，必备酷站",
+                        "url": "http://bm.straightline.jp/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-7-12.png"
+                    },{
+                        "name": "The FWA",
+                        "description": "强烈推荐！超高水准的互动网站设计案例",
+                        "url": "https://thefwa.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-7-fwa.png"
+                    },{
+                        "name": "81 web",
+                        "description": "推荐！日本优秀出色的站点大集合",
+                        "url": "https://81-web.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-7-9.png"
+                    }
+                ]
+            },
+            {
+                "name": "字体设计",
+                "sites": [
+                    {
+                        "name": "免费商用字体",
+                        "description": "超全！免费可商用中文+英文字体，含应用场景",
+                        "url": "https://uiiiuiii.com/tool/typeface",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-1.png"
+                    },{
+                        "name": "DaFont",
+                        "description": "国际知名站点！提供大量的免费英文字体下载",
+                        "url": "https://www.dafont.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/08/sdcnav-font-28.png"
+                    },{
+                        "name": "云字库",
+                        "description": "最适合中小型设计团队的字体商用解决方案",
+                        "url": "https://www.yestone.com/fonts/?ref=768164",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-3.png"
+                    },{
+                        "name": "字由",
+                        "description": "设计师必备字体利器，国内外上千款精选字体",
+                        "url": "http://www.hellofont.cn/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-4.png"
+                    },{
+                        "name": "字体宇宙",
+                        "description": "超过6万免费字体下载，网站体验不错",
+                        "url": "https://www.fontspace.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2020/08/sdcnav-font-85.png"
+                    },{
+                        "name": "Font Fabric",
+                        "description": "免费高品质字体打包下载",
+                        "url": "https://www.fontfabric.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-6.png"
+                    },{
+                        "name": "求字体",
+                        "description": "找字体神器，并提供中文和英文字体库下载",
+                        "url": "http://www.qiuziti.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-7.png"
+                    },{
+                        "name": "字体天下",
+                        "description": "推荐！超过3万个中英文字体免费下载",
+                        "url": "http://www.fonts.net.cn/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2019/02/2019-nav-fontcn.png"
+                    },{
+                        "name": "1001 Free Fonts",
+                        "description": "超过25900个高质量的字体下载，从古典到时尚",
+                        "url": "https://www.1001freefonts.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-9.png"
+                    },{
+                        "name": "字体传奇",
+                        "description": "字体品牌设计师交流网，字体相关的教程、讲座等",
+                        "url": "http://www.ziticq.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-10.png"
+                    },{
+                        "name": "Lost Type",
+                        "description": "推荐！字体都非常漂亮，展示方式悦目清新",
+                        "url": "http://www.losttype.com/browse/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-11.png"
+                    },{
+                        "name": "字体松鼠",
+                        "description": "100%免费下载可商用！专为设计师精心挑选",
+                        "url": "https://www.fontsquirrel.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-10-12.png"
+                    }
+                ]
+            },
+            {
+                "name": "配色方案",
+                "sites": [
+                    {
+                        "name": "Kuler",
+                        "description": "网页设计师配色的最佳之选",
+                        "url": "https://color.adobe.com/zh/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-1.png"
+                    },{
+                        "name": "COLOURlovers",
+                        "description": "交流颜色、色彩趋势和配色方案的超人气社区",
+                        "url": "https://www.colourlovers.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-2.png"
+                    },{
+                        "name": "Coolors",
+                        "description": "实用！成千上万的配色方案",
+                        "url": "https://coolors.co/browser/latest/1",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-3.png"
+                    },{
+                        "name": "漂亮的渐变颜色",
+                        "description": "今年流行的渐变！点击屏幕两侧按钮可选更多色彩",
+                        "url": "https://uigradients.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-4.png"
+                    },{
+                        "name": "CssWinner网页色彩分类",
+                        "description": "CSS画廊，可根据右侧颜色块展现最流行的网页",
+                        "url": "https://www.csswinner.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-5.png"
+                    },{
+                        "name": "色彩猎人",
+                        "description": "每天收集并策划发布美丽的配色方案",
+                        "url": "https://colorhunt.co/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-6.png"
+                    },{
+                        "name": "中国色彩大辞典",
+                        "description": "中国/日本传统色彩命名，点击色彩可直接吸取色值",
+                        "url": "https://color.uisdc.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-7.png"
+                    },{
+                        "name": "配色导航",
+                        "description": "推荐！流行配色方案，可一键复制喜欢的颜色",
+                        "url": "https://color.uisdc.com/pick.html",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-8.png"
+                    },{
+                        "name": "ColorFavs",
+                        "description": "一款实用的获取配色方案的工具",
+                        "url": "http://www.colorfavs.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-9.png"
+                    },{
+                        "name": "MaterialUI",
+                        "description": "推荐！帮助设计师们快速选到自己喜爱的配色方案",
+                        "url": "https://www.materialui.co/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-10.png"
+                    },{
+                        "name": "ColorDrop",
+                        "description": "让寻找配色方案成为信手拈来的事情",
+                        "url": "https://colordrop.io/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-11.png"
+                    },{
+                        "name": "Fashion Trendsetter",
+                        "description": "帮你关注每年最流行的颜色搭配",
+                        "url": "https://www.fashiontrendsetter.com/",
+                        "local_path": "",
+                        "remote_icon_url": "https://image.uisdc.com/wp-content/uploads/2018/08/sdcnav-5-12.png"
+                    }
+                ]
+            }
+        ]
+    },{
+        "name":"影视",
+        "sub_category_list":[{
+            "name":"在线",
+            "sites":[
+                {
+                    "name": "疯狂影视搜索",
+                    "description": "疯狂影视搜索-电影搜索一站拥有无尽影视资源",
+                    "url": "http://ifkdy.com/",
+                    "local_path": "",
+                    "remote_icon_url": "https://cdn.jsdelivr.net/gh/txxxjs/fk/ifkdy/2020-03-16/favicon.ico"
+                },{
+                    "name": "vip视频在线解析",
+                    "description": "vip视频在线解析",
+                    "url": "http://czjx8.com/",
+                    "local_path": "",
+                    "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/pure/viperfx.png"
+                },{
+                    "name": "一起看-虎牙",
+                    "description": "一起看直播,电影直播,电视剧直播",
+                    "url": "https://m.huya.com/g/seeTogether",
+                    "local_path": "",
+                    "remote_icon_url": "https://www.huya.com/favicon.ico"
+                },{
+                    "name": "NO视频  (￣▽￣)",
+                    "description": "电影,电视剧,日剧,韩剧,土耳其剧,美剧,泰剧,韩综,动漫,在线观看",
+                    "url": "https://www.novipnoad.com/",
+                    "local_path": "",
+                    "remote_icon_url": "https://www.novipnoad.com/favicon.ico"
+                },{
+                    "name": "蒙面大侠",
+                    "description": "最新电影,免费在线观看,超清电影,免费电影网,热播大片",
+                    "url": "https://www.mengmiandaxia.cn",
+                    "local_path": "",
+                    "remote_icon_url": ""
+                }
+            ]
+        }]
+    },{
+        "name":"音乐"
+    },{
+        "name":"学习"
+    },{
+        "name":"购物"
+    },{
+        "name":"财经"
+    },{
+        "name":"游戏"
+    },{
+        "name":"直播"
+    },{
+        "name":"工具"
     }
 ]
