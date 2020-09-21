@@ -15,7 +15,7 @@
                         "name": "腾讯",
                         "description": "手机腾讯网",
                         "url": "https://xw.qq.com",
-                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/qq.png"
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE%20Style/qq.png"
                     },
                     {
                         "name": "新浪",
@@ -68,7 +68,7 @@
                         "description": "这世界很酷",
                         "url": "https://www.youku.com",
                         "local_path": "",
-                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/youku.png"
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE%20Style/youku.png"
                     },
                     {
                         "name": "百度贴吧",
@@ -96,7 +96,7 @@
                         "description": "查快递,寄快递,上快递100",
                         "url": "https://m.kuaidi100.com",
                         "local_path": "",
-                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/kuaidi_100.png"
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE%20Style/kuaidi_100.png"
                     },
                     {
                         "name": "美团",
@@ -187,7 +187,7 @@
                         "description": "有品好玩的科技",
                         "url": "https://www.pingwest.com",
                         "local_path": "",
-                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/wangzhezhushou.png"
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE%20Style/wangzhezhushou.png"
                     },
                     {
                         "name": "简书",
@@ -201,7 +201,7 @@
                         "description": "快去分享和探索",
                         "url": "https://www.v2ex.com",
                         "local_path": "",
-                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/v2ex.png"
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/Sorcery/v2ex.PNG"
                     }
                 ]
             },
@@ -276,7 +276,7 @@
                         "description": "这世界很酷",
                         "url": "https://www.youku.com",
                         "local_path": "",
-                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE+Style/youku.png"
+                        "remote_icon_url": "https://images.weserv.nl/?url=https://raw.githubusercontent.com/langziguilai/icons/master/MBE%20Style/youku.png"
                     },
                     {
                         "name": "爱奇艺",
